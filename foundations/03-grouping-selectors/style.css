@@ -1,13 +1,14 @@
-.shared {
+.yellow, 
+.black {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-#yellow {
+.yellow {
     background-color: yellow;
 }
 
-#black {
+.black {
     background-color: black;
     color: white;
 }
